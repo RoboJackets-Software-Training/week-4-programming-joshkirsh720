@@ -1,0 +1,2 @@
+week_4_exercises
+-DCATKIN_DEVEL_PREFIX=/home/vagrant/RoboJackets/training/week-4-programming-joshkirsh720/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/vagrant/RoboJackets/training/week-4-programming-joshkirsh720/catkin_ws/install -G Unix Makefiles

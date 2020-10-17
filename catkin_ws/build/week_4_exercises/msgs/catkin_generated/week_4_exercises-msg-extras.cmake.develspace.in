@@ -1,0 +1,2 @@
+set(week_4_exercises_MESSAGE_FILES "/home/vagrant/RoboJackets/training/week-4-programming-joshkirsh720/catkin_ws/src/week_4_exercises/msgs/msg/MyMessage.msg")
+set(week_4_exercises_SERVICE_FILES "")

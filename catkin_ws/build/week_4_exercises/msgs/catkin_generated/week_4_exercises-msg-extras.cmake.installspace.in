@@ -1,0 +1,2 @@
+set(week_4_exercises_MESSAGE_FILES "msg/MyMessage.msg")
+set(week_4_exercises_SERVICE_FILES "")
